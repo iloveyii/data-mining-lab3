@@ -3,6 +3,7 @@ Lab 3
 
 
 # Run:
+   * clone repository as `git clone https://github.com/iloveyii/data-mining-lab3.git`
    * Install Jupyter 
    * Run the following scripts in Juptyer notebook
 ```python

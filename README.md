@@ -2,13 +2,7 @@ Lab 3
 ===================
 
 
-# Task1:
-
-
-# Task2:
-
-
-# Task3:
+# Run:
    * Install Jupyter 
    * Run the following scripts in Juptyer notebook
 ```python

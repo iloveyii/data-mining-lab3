@@ -11,5 +11,5 @@ Lab 3
     lab3_task1_b.ipynb
     
     lab3_task2_mnist_cnn.ipynb
-
+    lab3_task2_mnist_svm.ipynb
 ```
